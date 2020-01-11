@@ -8,7 +8,7 @@ HTML
 
 Python
 
-1. 6.00.1x: Introduction to Computer Science and Programming Using Python  (Check my linkedin or just interview me for proof)
+1. MIT6.00.1x: Introduction to Computer Science and Programming Using Python  (Check my linkedin or just interview me for proof)
 
 
 Java 
